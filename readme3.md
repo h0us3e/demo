@@ -3,4 +3,4 @@ Hellow
 
 ## second title
 
-learn git and github. form zero to hero
+learn git and github for the worst branch
