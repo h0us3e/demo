@@ -3,4 +3,4 @@ Hellow
 
 ## second title
 
-learn git
+learn git and github. form zero to hero
